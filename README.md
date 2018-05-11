@@ -16,6 +16,7 @@ Michael Jordan
 Shaquille O'Neal
 Kevin Garnett
 Steph Curry
+Dwyane Wade
 
 # Building a web scraper to get regular season vs playoff stats from basketballreference.com
 
